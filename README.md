@@ -7,7 +7,7 @@ Currently studying in HSE Lyceum, one of top schools in Moscow, graduating in sp
 - Built a few games in **Unity** and **C#** while participating in GameJams with my friends.
 - Built a Toilet Finder Map app as my graduation work, had to learn **Kotlin** and **Jetpack Compose** to complete it ;) (i'll link it here soon)
 - Needed to learn how to frontend so completed **The Odin Project** basics.
-- Currently working on a website with a map of restaurants with reviews and posts and blogs and lots of other cool stuff, for a school club-project called "Where to Eat?" (using HTMX btw)
+- Currently working on a website with a map of restaurants with reviews and posts and blogs and lots of other cool stuff, for a school club-project called "Where to Eat?" (using ~HTMX~ svelte btw)
 
 ### Random facts about me
 - Aviation nerd, Concorde and Beluga are best planes ever built, play a lot of aviation sims (including, but not limited to MSFS, DCS and VTOL VR)
