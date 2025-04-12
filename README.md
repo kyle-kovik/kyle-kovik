@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kyle!
 
 Software Engineering Student at Central University | Graduating in 2028
 
